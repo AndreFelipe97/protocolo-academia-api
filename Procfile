@@ -1,0 +1,1 @@
+web: gunicorn academia_protocolo_treino.wsgi
